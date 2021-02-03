@@ -1,0 +1,10 @@
+com\mycompany\service\ApplicationConfig.class
+com\mycompany\service\MedicoRest.class
+com\mycompany\service\PersonalRest.class
+com\mycompany\entidades\Medico_.class
+com\mycompany\session\MedicoFacade.class
+com\mycompany\session\PersonalFacade.class
+com\mycompany\entidades\Personal.class
+com\mycompany\entidades\Personal_.class
+com\mycompany\entidades\Medico.class
+com\mycompany\session\AbstractFacade.class
