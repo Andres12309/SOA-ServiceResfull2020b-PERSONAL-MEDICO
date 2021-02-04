@@ -5,22 +5,14 @@
  */
 package com.mycompany.service;
 
-import com.mycompany.entidades.Medico;
 import com.mycompany.session.MedicoFacade;
-import java.util.List;
-import java.util.stream.Collectors;
 import javax.ejb.EJB;
-import javax.ws.rs.Consumes;
-import javax.ws.rs.DELETE;
 import javax.ws.rs.GET;
-import javax.ws.rs.POST;
-import javax.ws.rs.PUT;
 import javax.ws.rs.Path;
-import javax.ws.rs.PathParam;
-import javax.ws.rs.Produces;    
+import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
-import javax.ws.rs.core.Response;
-import javax.ws.rs.core.Response.Status;
+
+
 /**
  *
  * @author Personal
@@ -30,15 +22,12 @@ public class MedicoRest {
     @EJB
     private MedicoFacade medicoFacade;
     
-     //VAMOS A TRAER LOS DATOS DE LA TABLA DE LA BDD
     @GET
-    //CON UN FORMATO JSON
-    @Produces({MediaType.APPLICATION_JSON})
-    public List<Medico> findAll() {
-        return medicoFacade.findAll();
+    @Produces({MediaType.APPLICATION_XML})
+    public String findAll() {
+        return "---------------------";
     }
-    
-    //TRAER UN ID ESPECIFICO DE LA BASE DE DATOS
+    /*
     @GET
     @Produces({MediaType.APPLICATION_JSON})
     @Path("{id}")
@@ -80,4 +69,5 @@ public class MedicoRest {
         
         return Response.ok("DATO ACTUALIZADO",MediaType.APPLICATION_JSON).build();
     }
+*/
 }

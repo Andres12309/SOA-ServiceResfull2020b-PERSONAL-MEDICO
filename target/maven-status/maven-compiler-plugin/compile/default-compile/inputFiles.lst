@@ -1,8 +1,8 @@
-C:\Users\Personal\Documents\NetBeansProjects\SOAServiceRestful\src\main\java\com\mycompany\session\MedicoFacade.java
-C:\Users\Personal\Documents\NetBeansProjects\SOAServiceRestful\src\main\java\com\mycompany\service\PersonalRest.java
-C:\Users\Personal\Documents\NetBeansProjects\SOAServiceRestful\src\main\java\com\mycompany\session\AbstractFacade.java
-C:\Users\Personal\Documents\NetBeansProjects\SOAServiceRestful\src\main\java\com\mycompany\session\PersonalFacade.java
-C:\Users\Personal\Documents\NetBeansProjects\SOAServiceRestful\src\main\java\com\mycompany\entidades\Medico.java
-C:\Users\Personal\Documents\NetBeansProjects\SOAServiceRestful\src\main\java\com\mycompany\entidades\Personal.java
-C:\Users\Personal\Documents\NetBeansProjects\SOAServiceRestful\src\main\java\com\mycompany\service\ApplicationConfig.java
-C:\Users\Personal\Documents\NetBeansProjects\SOAServiceRestful\src\main\java\com\mycompany\service\MedicoRest.java
+C:\Users\developer3\Documents\NetBeansProjects\ServiceResfulSOA\src\main\java\com\mycompany\session\PersonalFacade.java
+C:\Users\developer3\Documents\NetBeansProjects\ServiceResfulSOA\src\main\java\com\mycompany\session\AbstractFacade.java
+C:\Users\developer3\Documents\NetBeansProjects\ServiceResfulSOA\src\main\java\com\mycompany\entidades\Personal.java
+C:\Users\developer3\Documents\NetBeansProjects\ServiceResfulSOA\src\main\java\com\mycompany\services\ApplicationConfig.java
+C:\Users\developer3\Documents\NetBeansProjects\ServiceResfulSOA\src\main\java\com\mycompany\session\MedicoFacade.java
+C:\Users\developer3\Documents\NetBeansProjects\ServiceResfulSOA\src\main\java\com\mycompany\entidades\Medico.java
+C:\Users\developer3\Documents\NetBeansProjects\ServiceResfulSOA\src\main\java\com\mycompany\services\MedicoRest.java
+C:\Users\developer3\Documents\NetBeansProjects\ServiceResfulSOA\src\main\java\com\mycompany\services\PersonalRest.java

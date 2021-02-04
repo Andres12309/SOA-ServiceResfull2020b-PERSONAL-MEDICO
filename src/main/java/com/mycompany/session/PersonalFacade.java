@@ -12,12 +12,12 @@ import javax.persistence.PersistenceContext;
 
 /**
  *
- * @author Personal
+ * @author developer3
  */
 @Stateless
 public class PersonalFacade extends AbstractFacade<Personal> {
 
-    @PersistenceContext(unitName = "com.mycompany_SOAServiceRestful_war_1.0-SNAPSHOTPU")
+    @PersistenceContext(unitName = "com.mycompany_ServiceResfulSOA_war_1.0-SNAPSHOTPU")
     private EntityManager em;
 
     @Override
